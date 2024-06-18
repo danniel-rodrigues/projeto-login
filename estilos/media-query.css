@@ -66,4 +66,8 @@
     div#formulario > p {
         font-size: 1.1em;
     }
+
+    div.campo > input {
+        transform: translateY(-2px);
+    }
 }
