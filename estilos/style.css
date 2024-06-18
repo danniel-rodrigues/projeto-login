@@ -79,14 +79,10 @@ form > div.campo {
 
 div.campo > i {
     color: white;
-    /* background-color: black; */
-    font-size: 2em;
+    font-size: 1.5em;
     width: 40px;
     padding: 5px;
-}
-
-div.campo > label {
-    display: none;
+    text-align: center;
 }
 
 div.campo > input {
@@ -97,7 +93,7 @@ div.campo > input {
     border: none;
     border-radius: 5px;
     padding: 5px;
-    transform: translateY(-10px);
+    transform: translateY(-3px);
 
 }
 
@@ -116,10 +112,11 @@ form > input[type="submit"] {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    transition: background-color .3s;
 }
 
 form > input[type="submit"]:hover {
-    background-color: #21413f;
+    background-color: #1b3533;
 }
 
 form > a.botao {
@@ -135,10 +132,12 @@ form > a.botao {
     text-decoration: none;
     line-height: 40px;
     margin-top: 5px;
+    transition: background-color .3s;
 }
 
 form > a.botao:hover {
     background-color: #59a8a4;
+    color: #193130;
 }
 
 form > a.botao > i {
