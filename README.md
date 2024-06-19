@@ -6,7 +6,7 @@ Bem-vindo ao projeto de Tela de Login! Este projeto foi desenvolvido como parte 
 
 Você pode visualizar o projeto ao vivo [aqui](https://danniel-rodrigues.github.io/projeto-login/).
 
-![Tela de Login](https://via.placeholder.com/800x400.png?text=Preview+da+Tela+de+Login)
+![Tela de Login](./imagens/screenshot-projeto.png)
 
 ## Tecnologias Utilizadas
 
@@ -29,14 +29,14 @@ O projeto é composto pelos seguintes arquivos:
 │ └── media-query.css
 └── imagens
   ├── pexels-image.jpg
-  └── screenshot-projeto.jpg
+  └── screenshot-projeto.png
 ```
 
 - `index.html`: Contém a estrutura HTML da tela de login.
 - `estilos/style.css`: Contém os estilos CSS principais utilizados para estilizar a página.
 - `estilos/media-query.css`: Contém os estilos CSS específicos para diferentes tamanhos de tela.
 - `imagens/pexels-image.jpg`: Imagem de exemplo utilizada no projeto.
-- `imagens/screenshot-projeto.jpg`: Imagem de demonstração do projeto em execução.
+- `imagens/screenshot-projeto.png`: Imagem de demonstração do projeto em execução.
 
 ## Como Executar o Projeto
 
