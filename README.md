@@ -21,6 +21,7 @@ Você pode visualizar o projeto ao vivo [aqui](https://danniel-rodrigues.github.
 ## Estrutura do Projeto
 
 O projeto é composto pelos seguintes arquivos:
+```
 .
 ├── index.html
 ├── estilos
@@ -29,6 +30,7 @@ O projeto é composto pelos seguintes arquivos:
 └── imagens
   ├── pexels-image.jpg
   └── screenshot-projeto.jpg
+```
 
 - `index.html`: Contém a estrutura HTML da tela de login.
 - `estilos/style.css`: Contém os estilos CSS principais utilizados para estilizar a página.
